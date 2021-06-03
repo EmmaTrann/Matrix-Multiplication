@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  9 16:31:38 2021
 
-@author: applefamily
-"""
 
 import numpy as np
 def matrixmultiply(a, b, result):
