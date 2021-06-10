@@ -1,4 +1,6 @@
-# Matrix-Multiplication-
+# Matrix-Multiplication
+Date: February 9, 2021
+
 Matrix Multiplication with given restriction in Python and Matlab
 
 ## Functions
